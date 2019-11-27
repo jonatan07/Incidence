@@ -32,7 +32,7 @@ namespace IncidenceDionny.Controllers
             {
                 var claims = new[]
                 {
-                    new Claim(JwtRegisteredClaimNames.Sub,"dionny.prensa@solvex.com.do"),
+                    new Claim(JwtRegisteredClaimNames.Sub,"dionny.prensa@wawawa.com"),
                     new Claim(JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString()),
                     new Claim("Name",user.UserName)
                 };

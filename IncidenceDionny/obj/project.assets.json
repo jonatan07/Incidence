@@ -13055,11 +13055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\IncidenceDionny\\IncidenceDionny\\Incidence.csproj",
+      "projectUniqueName": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\Incidence\\IncidenceDionny\\Incidence.csproj",
       "projectName": "Incidence",
-      "projectPath": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\IncidenceDionny\\IncidenceDionny\\Incidence.csproj",
+      "projectPath": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\Incidence\\IncidenceDionny\\Incidence.csproj",
       "packagesPath": "C:\\Users\\Jonatan Delgado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\IncidenceDionny\\IncidenceDionny\\obj\\",
+      "outputPath": "C:\\Users\\Jonatan Delgado\\Source\\Repos\\Incidence\\IncidenceDionny\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
