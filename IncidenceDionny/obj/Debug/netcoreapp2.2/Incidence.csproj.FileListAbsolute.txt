@@ -1,0 +1,14 @@
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\bin\Debug\netcoreapp2.2\Incidence.deps.json
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\bin\Debug\netcoreapp2.2\Incidence.runtimeconfig.json
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\bin\Debug\netcoreapp2.2\Incidence.runtimeconfig.dev.json
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\bin\Debug\netcoreapp2.2\Incidence.dll
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\bin\Debug\netcoreapp2.2\Incidence.pdb
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.csprojAssemblyReference.cache
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.RazorAssemblyInfo.cache
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.RazorAssemblyInfo.cs
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.AssemblyInfoInputs.cache
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.AssemblyInfo.cs
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.RazorTargetAssemblyInfo.cache
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.dll
+C:\Users\Jonatan Delgado\Source\Repos\IncidenceDionny\IncidenceDionny\obj\Debug\netcoreapp2.2\Incidence.pdb
